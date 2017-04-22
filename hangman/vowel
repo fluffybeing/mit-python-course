@@ -1,0 +1,8 @@
+vowel = "aeiou"
+x = raw_input("Enter the character :")
+
+if x in vowel:
+    print("yes")
+else:
+    print("No")
+    
